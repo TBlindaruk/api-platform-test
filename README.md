@@ -45,3 +45,13 @@ It means that you can:
 ## Credits
 
 Created by [Kévin Dunglas](https://dunglas.fr). Commercial support is available at [Les-Tilleuls.coop](https://les-tilleuls.coop).
+
+### Starting
+
+Build 
+- docker compose build --no-cache
+
+- docker compose up --wait
+
+
+
