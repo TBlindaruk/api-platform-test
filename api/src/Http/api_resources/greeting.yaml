@@ -1,0 +1,4 @@
+App\Entity\Greeting:
+    operations:
+        ApiPlatform\Metadata\GetCollection: ~ # nothing more to add if we want to keep the default controller
+        ApiPlatform\Metadata\Get: ~
